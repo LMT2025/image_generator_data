@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Comic",
+    "iconUrl": "icon/comic.png",
+    "templates": [
+      {
+        "id": 101,
+        "resources": "resources/comic_1.zip",
+        "name": "Poster A",
+        "preview": "preview/comic_1.jpg"
+      }
+    ]
+  }
+]
