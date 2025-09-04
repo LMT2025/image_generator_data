@@ -1,15 +1,80 @@
-[
-  {
-    "id": 1,
-    "name": "Comic",
-    "iconUrl": "icon/comic.png",
-    "templates": [
-      {
-        "id": 101,
-        "resources": "resources/comic_1.zip",
-        "name": "Poster A",
-        "preview": "preview/comic_1.jpg"
-      }
-    ]
-  }
-]
+{
+  "lastupdate": "2025-09-05",
+  "collections": [
+    {
+      "id": 1,
+      "name": "Comic",
+      "iconUrl": "icon/comic.png",
+      "templates": [
+        {
+          "id": 101,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 102,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 103,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Comic",
+      "iconUrl": "icon/comic.png",
+      "templates": [
+        {
+          "id": 201,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 202,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 203,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Comic",
+      "iconUrl": "icon/comic.png",
+      "templates": [
+        {
+          "id": 301,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 302,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        },
+        {
+          "id": 303,
+          "resources": "resources/comic_1.zip",
+          "name": "Poster A",
+          "preview": "preview/comic_1.jpg"
+        }
+      ]
+    }
+  ]
+}
