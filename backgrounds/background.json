@@ -4,6 +4,7 @@
     {
       "id": 1,
       "name": "Basic",
+      "icon": "basic/ic_basic.webp",
       "backgrounds": [
         { "id": 101, "name": "Basic 1", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
         { "id": 102, "name": "Basic 2", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
@@ -16,6 +17,7 @@
     {
       "id": 2,
       "name": "Profile",
+      "icon": "profile/ic_profile.webp",
       "backgrounds": [
         { "id": 201, "name": "Profile 1", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
         { "id": 202, "name": "Profile 2", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
