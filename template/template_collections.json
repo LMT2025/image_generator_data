@@ -1,11 +1,25 @@
 {
-  "lastupdate": "2025-09-05",
+  "lastupdate": "2025-09-10",
   "collections": [
     {
       "id": 1,
       "name": "Comic",
       "icon": "icon/comic.png",
       "templates": [
+        {
+          "id": 104,
+          "name": "Theme 10",
+          "preview": "preview/theme_10.jpg",
+          "resources": "resources/theme_10.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 105,
+          "name": "Theme 11",
+          "preview": "preview/theme_11.jpg",
+          "resources": "resources/theme_11.zip",
+          "ratio": "2:3"
+        },
         {
           "id": 101,
           "name": "Theme 1",
