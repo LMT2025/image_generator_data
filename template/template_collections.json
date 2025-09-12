@@ -1,100 +1,100 @@
 {
-  "lastupdate": "2025-09-10",
+  "lastupdate": "2025-09-11",
   "collections": [
     {
       "id": 1,
-      "name": "Comic",
+      "name": "Festival",
       "icon": "icon/comic.png",
       "templates": [
         {
           "id": 104,
+          "name": "Theme 3",
+          "preview": "preview/theme_3.jpg",
+          "resources": "resources/theme_3.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 105,
+          "name": "Theme 8",
+          "preview": "preview/theme_8.jpg",
+          "resources": "resources/theme_8.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 101,
+          "name": "Theme 9",
+          "preview": "preview/theme_9.jpg",
+          "resources": "resources/theme_9.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 102,
           "name": "Theme 10",
           "preview": "preview/theme_10.jpg",
           "resources": "resources/theme_10.zip",
           "ratio": "2:3"
         },
         {
-          "id": 105,
+          "id": 103,
           "name": "Theme 11",
           "preview": "preview/theme_11.jpg",
           "resources": "resources/theme_11.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 101,
-          "name": "Theme 1",
-          "preview": "preview/theme_1.png",
-          "resources": "resources/theme_1.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 102,
-          "name": "Theme 2",
-          "preview": "preview/theme_2.png",
-          "resources": "resources/theme_2.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 103,
-          "name": "Theme 3",
-          "preview": "preview/theme_3.png",
-          "resources": "resources/theme_3.zip",
           "ratio": "2:3"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Comic",
+      "name": "Aesthetic",
       "icon": "icon/comic.png",
       "templates": [
         {
           "id": 201,
-          "name": "Theme 4",
-          "preview": "preview/theme_4.png",
-          "resources": "resources/theme_4.zip",
+          "name": "Theme 1",
+          "preview": "preview/theme_1.jpg",
+          "resources": "resources/theme_1.zip",
           "ratio": "2:3"
         },
         {
           "id": 202,
-          "name": "Theme 5",
-          "preview": "preview/theme_5.png",
-          "resources": "resources/theme_5.zip",
+          "name": "Theme 2",
+          "preview": "preview/theme_2.jpg",
+          "resources": "resources/theme_2.zip",
           "ratio": "2:3"
         },
         {
           "id": 203,
           "name": "Theme 6",
-          "preview": "preview/theme_6.png",
+          "preview": "preview/theme_6.jpg",
           "resources": "resources/theme_6.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 204,
+          "name": "Theme 7",
+          "preview": "preview/theme_7.jpg",
+          "resources": "resources/theme_7.zip",
           "ratio": "2:3"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Comic",
+      "name": "Street",
       "icon": "icon/comic.png",
       "templates": [
         {
           "id": 301,
-          "name": "Theme 7",
-          "preview": "preview/theme_7.png",
-          "resources": "resources/theme_7.zip",
+          "name": "Theme 4",
+          "preview": "preview/theme_4.jpg",
+          "resources": "resources/theme_4.zip",
           "ratio": "2:3"
         },
         {
           "id": 302,
-          "name": "Theme 8",
-          "preview": "preview/theme_8.png",
-          "resources": "resources/theme_8.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 303,
-          "name": "Theme 9",
-          "preview": "preview/theme_9.png",
-          "resources": "resources/theme_9.zip",
+          "name": "Theme 5",
+          "preview": "preview/theme_5.jpg",
+          "resources": "resources/theme_5.zip",
           "ratio": "2:3"
         }
       ]
