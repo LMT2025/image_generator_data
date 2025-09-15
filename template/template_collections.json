@@ -4,7 +4,7 @@
     {
       "id": 1,
       "name": "Festival",
-      "icon": "icon/comic.png",
+      "icon": "icon/festival.png",
       "templates": [
         {
           "id": 104,
@@ -46,7 +46,7 @@
     {
       "id": 2,
       "name": "Aesthetic",
-      "icon": "icon/comic.png",
+      "icon": "icon/aesthetic.png",
       "templates": [
         {
           "id": 201,
@@ -81,7 +81,7 @@
     {
       "id": 3,
       "name": "Street",
-      "icon": "icon/comic.png",
+      "icon": "icon/street.png",
       "templates": [
         {
           "id": 301,
