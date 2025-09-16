@@ -33,10 +33,10 @@
       "name": "Test",
       "icon": "test/ic_test.webp",
       "backgrounds": [
-        { "id": 301, "name": "Profile 1", "url": "profile/raw_basic_1.webp", "thumb": "profile/thumb_test_1.jpg", "ratio": "2:3" },
-        { "id": 302, "name": "Profile 2", "url": "profile/raw_test_2.webp", "thumb": "profile/thumb_test_2.jpg", "ratio": "2:3" },
-        { "id": 303, "name": "Profile 3", "url": "profile/raw_test_3.webp", "thumb": "profile/thumb_test_3.jpg", "ratio": "2:3" },
-        { "id": 304, "name": "Profile 4", "url": "profile/raw_test_4.webp", "thumb": "profile/thumb_test_4.jpg", "ratio": "2:3" }
+        { "id": 301, "name": "Profile 1", "url": "xmas/raw_test_1.webp", "thumb": "xmas/thumb_test_1.jpg", "ratio": "2:3" },
+        { "id": 302, "name": "Profile 2", "url": "xmas/raw_test_2.webp", "thumb": "xmas/thumb_test_2.jpg", "ratio": "2:3" },
+        { "id": 303, "name": "Profile 3", "url": "xmas/raw_test_3.webp", "thumb": "xmas/thumb_test_3.jpg", "ratio": "2:3" },
+        { "id": 304, "name": "Profile 4", "url": "xmas/raw_test_4.webp", "thumb": "xmas/thumb_test_4.jpg", "ratio": "2:3" }
       ]
     }
   ]
