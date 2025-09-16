@@ -1,3 +1,4 @@
+
 {
   "lastUpdate": "2025-09-07T05:00:00Z",
   "backgroundCategories": [
@@ -7,11 +8,11 @@
       "icon": "basic/ic_basic.webp",
       "backgrounds": [
         { "id": 101, "name": "Basic 1", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 102, "name": "Basic 2", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 103, "name": "Basic 3", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 104, "name": "Basic 4", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 105, "name": "Basic 5", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 106, "name": "Basic 6", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" }
+        { "id": 102, "name": "Basic 2", "url": "basic/raw_basic_2.webp", "thumb": "basic/thumb_basic_2.jpg", "ratio": "2:3" },
+        { "id": 103, "name": "Basic 3", "url": "basic/raw_basic_3.webp", "thumb": "basic/thumb_basic_3.jpg", "ratio": "2:3" },
+        { "id": 104, "name": "Basic 4", "url": "basic/raw_basic_4.webp", "thumb": "basic/thumb_basic_4.jpg", "ratio": "2:3" },
+        { "id": 105, "name": "Basic 5", "url": "basic/raw_basic_5.webp", "thumb": "basic/thumb_basic_5.jpg", "ratio": "2:3" },
+        { "id": 106, "name": "Basic 6", "url": "basic/raw_basic_6.webp", "thumb": "basic/thumb_basic_6.jpg", "ratio": "2:3" }
       ]
     },
     {
@@ -41,3 +42,4 @@
   ]
 }
 
+    
