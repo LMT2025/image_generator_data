@@ -96,6 +96,48 @@
           "preview": "preview/theme_5.jpg",
           "resources": "resources/theme_5.zip",
           "ratio": "2:3"
+        },
+        {
+          "id": 303,
+          "name": "Theme 12",
+          "preview": "preview/theme_12.jpg",
+          "resources": "resources/theme_12.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 304,
+          "name": "Theme 13",
+          "preview": "preview/theme_13.jpg",
+          "resources": "resources/theme_13.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 305,
+          "name": "Theme 14",
+          "preview": "preview/theme_14.jpg",
+          "resources": "resources/theme_14.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 306,
+          "name": "Theme 15",
+          "preview": "preview/theme_15.jpg",
+          "resources": "resources/theme_15.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 307,
+          "name": "Theme 16",
+          "preview": "preview/theme_16.jpg",
+          "resources": "resources/theme_16.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 308,
+          "name": "Theme 17",
+          "preview": "preview/theme_17.jpg",
+          "resources": "resources/theme_17.zip",
+          "ratio": "2:3"
         }
       ]
     }
