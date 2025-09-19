@@ -16,29 +16,26 @@
     },
     {
       "id": 2,
-      "name": "Profile",
-      "icon": "profile/ic_profile.webp",
+      "name": "Gradient",
+      "icon": "gradient/ic_gradient.webp",
       "backgrounds": [
-        { "id": 201, "name": "Profile 1", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
-        { "id": 202, "name": "Profile 2", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
-        { "id": 203, "name": "Profile 3", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
-        { "id": 204, "name": "Profile 4", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
-        { "id": 205, "name": "Profile 5", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" },
-        { "id": 206, "name": "Profile 6", "url": "profile/raw_profile_1.webp", "thumb": "profile/thumb_profile_1.jpg", "ratio": "2:3" }
+        { "id": 201, "name": "Xmas 1", "url": "gradient/raw_gradient_1.webp", "thumb": "gradient/thumb_gradient_1.jpg", "ratio": "1:1" },
+        { "id": 202, "name": "Xmas 2", "url": "gradient/raw_gradients_2.webp", "thumb": "gradient/thumb_gradient_2.jpg", "ratio": "1:1" },
+        { "id": 203, "name": "Xmas 3", "url": "gradient/raw_gradient_3.webp", "thumb": "gradient/thumb_gradient_3.jpg", "ratio": "1:1" },
+        { "id": 204, "name": "Xmas 4", "url": "gradient/raw_gradient_4.webp", "thumb": "gradient/thumb_gradient_4.jpg", "ratio": "1:1" }
       ]
     },
     {
       "id": 3,
-      "name": "Xmas",
-      "icon": "xmas/ic_xmas.webp",
+      "name": "Remove Background",
+      "icon": "removebackground/ic_rmbg.webp",
       "backgrounds": [
-        { "id": 301, "name": "Xmas 1", "url": "xmas/raw_test_1.webp", "thumb": "xmas/thumb_test_1.jpg", "ratio": "1:1" },
-        { "id": 302, "name": "Xmas 2", "url": "xmas/raw_test_2.webp", "thumb": "xmas/thumb_test_2.jpg", "ratio": "1:1" },
-        { "id": 303, "name": "Xmas 3", "url": "xmas/raw_test_3.webp", "thumb": "xmas/thumb_test_3.jpg", "ratio": "1:1" },
-        { "id": 304, "name": "Xmas 4", "url": "xmas/raw_test_4.webp", "thumb": "xmas/thumb_test_4.jpg", "ratio": "1:1" }
+        { "id": 301, "name": "RMBG 1", "url": "removebackground/raw_rmbg_1.webp", "thumb": "removebackground/thumb_rmbg_1.jpg", "ratio": "1:1" },
+        { "id": 302, "name": "RMBG 2", "url": "removebackground/raw_rmbg_2.webp", "thumb": "removebackground/thumb_rmbg_2.jpg", "ratio": "1:1" },
+        { "id": 303, "name": "RMBG 3", "url": "removebackground/raw_rmbg_3.webp", "thumb": "removebackground/thumb_rmbg_3.jpg", "ratio": "1:1" },
+        { "id": 304, "name": "RMBG 4", "url": "removebackground/raw_rmbg_4.webp", "thumb": "removebackground/thumb_rmbg_4.jpg", "ratio": "1:1" },
+        { "id": 305, "name": "RMBG 5", "url": "removebackground/raw_rmbg_5.webp", "thumb": "removebackground/thumb_rmbg_5.jpg", "ratio": "1:1" }
       ]
     }
   ]
 }
-
-    
