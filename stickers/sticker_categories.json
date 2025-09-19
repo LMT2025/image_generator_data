@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Animal",
+    "iconPath": "icon/icon_animal.png",
+  },
+  {
+    "id": 2,
+    "name": "Dinosaurs",
+    "iconPath": "icon/icon_dinosaurs.png"
+  },
+  {
+    "id": 3,
+    "name": "Dog",
+    "iconPath": "icon/icon_dog.png"
+  },
+  {
+    "id": 4,
+    "name": "Food",
+    "iconPath": "icon/icon_food.png"
+  }
+]
