@@ -2,16 +2,28 @@
   "lastUpdate": "2025-09-07T05:00:00Z",
   "backgroundCategories": [
     {
+      "id": 3,
+      "name": "Remove Background",
+      "icon": "removebackground/ic_rmbg.webp",
+      "backgrounds": [
+        { "id": 301, "name": "RMBG 1", "url": "removebackground/raw_rmbg_1.webp", "thumb": "removebackground/thumb_rmbg_1.jpg", "ratio": "1:1", "color": "#e2b84b"  },
+        { "id": 302, "name": "RMBG 2", "url": "removebackground/raw_rmbg_2.webp", "thumb": "removebackground/thumb_rmbg_2.jpg", "ratio": "1:1", "color":"#8a6f66" },
+        { "id": 303, "name": "RMBG 3", "url": "removebackground/raw_rmbg_3.webp", "thumb": "removebackground/thumb_rmbg_3.jpg", "ratio": "1:1" , "color": "#00000000" },
+        { "id": 304, "name": "RMBG 4", "url": "removebackground/raw_rmbg_4.webp", "thumb": "removebackground/thumb_rmbg_4.jpg", "ratio": "1:1" , "color":"#eda833"},
+        { "id": 305, "name": "RMBG 5", "url": "removebackground/raw_rmbg_5.webp", "thumb": "removebackground/thumb_rmbg_5.jpg", "ratio": "1:1", "color": "#8d8e92"}
+      ]
+    },
+    {
       "id": 1,
       "name": "Basic",
       "icon": "basic/ic_basic.webp",
       "backgrounds": [
-        { "id": 101, "name": "Basic 1", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3" },
-        { "id": 102, "name": "Basic 2", "url": "basic/raw_basic_2.webp", "thumb": "basic/thumb_basic_2.jpg", "ratio": "2:3" },
-        { "id": 103, "name": "Basic 3", "url": "basic/raw_basic_3.webp", "thumb": "basic/thumb_basic_3.jpg", "ratio": "2:3" },
-        { "id": 104, "name": "Basic 4", "url": "basic/raw_basic_4.webp", "thumb": "basic/thumb_basic_4.jpg", "ratio": "2:3" },
-        { "id": 105, "name": "Basic 5", "url": "basic/raw_basic_5.webp", "thumb": "basic/thumb_basic_5.jpg", "ratio": "2:3" },
-        { "id": 106, "name": "Basic 6", "url": "basic/raw_basic_6.webp", "thumb": "basic/thumb_basic_6.jpg", "ratio": "2:3" }
+        { "id": 101, "name": "Basic 1", "url": "basic/raw_basic_1.webp", "thumb": "basic/thumb_basic_1.jpg", "ratio": "2:3", "color": "" },
+        { "id": 102, "name": "Basic 2", "url": "basic/raw_basic_2.webp", "thumb": "basic/thumb_basic_2.jpg", "ratio": "2:3", "color": "" },
+        { "id": 103, "name": "Basic 3", "url": "basic/raw_basic_3.webp", "thumb": "basic/thumb_basic_3.jpg", "ratio": "2:3", "color": "" },
+        { "id": 104, "name": "Basic 4", "url": "basic/raw_basic_4.webp", "thumb": "basic/thumb_basic_4.jpg", "ratio": "2:3", "color": "" },
+        { "id": 105, "name": "Basic 5", "url": "basic/raw_basic_5.webp", "thumb": "basic/thumb_basic_5.jpg", "ratio": "2:3", "color": "" },
+        { "id": 106, "name": "Basic 6", "url": "basic/raw_basic_6.webp", "thumb": "basic/thumb_basic_6.jpg", "ratio": "2:3", "color": "" }
       ]
     },
     {
@@ -19,10 +31,10 @@
       "name": "Gradient",
       "icon": "gradient/ic_gradient.webp",
       "backgrounds": [
-        { "id": 201, "name": "Xmas 1", "url": "gradient/raw_gradient_1.webp", "thumb": "gradient/thumb_gradient_1.jpg", "ratio": "1:1" },
-        { "id": 202, "name": "Xmas 2", "url": "gradient/raw_gradients_2.webp", "thumb": "gradient/thumb_gradient_2.jpg", "ratio": "1:1" },
-        { "id": 203, "name": "Xmas 3", "url": "gradient/raw_gradient_3.webp", "thumb": "gradient/thumb_gradient_3.jpg", "ratio": "1:1" },
-        { "id": 204, "name": "Xmas 4", "url": "gradient/raw_gradient_4.webp", "thumb": "gradient/thumb_gradient_4.jpg", "ratio": "1:1" }
+        { "id": 201, "name": "Xmas 1", "url": "gradient/raw_gradient_1.webp", "thumb": "gradient/thumb_gradient_1.jpg", "ratio": "1:1", "color": "" },
+        { "id": 202, "name": "Xmas 2", "url": "gradient/raw_gradients_2.webp", "thumb": "gradient/thumb_gradient_2.jpg", "ratio": "1:1", "color": "" },
+        { "id": 203, "name": "Xmas 3", "url": "gradient/raw_gradient_3.webp", "thumb": "gradient/thumb_gradient_3.jpg", "ratio": "1:1", "color": "" },
+        { "id": 204, "name": "Xmas 4", "url": "gradient/raw_gradient_4.webp", "thumb": "gradient/thumb_gradient_4.jpg", "ratio": "1:1", "color": "" }
       ]
     }
   ]
