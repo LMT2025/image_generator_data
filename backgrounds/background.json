@@ -2,7 +2,7 @@
   "lastUpdate": "2025-09-07T05:00:00Z",
   "backgroundCategories": [
     {
-      "id": 3,
+      "id": 1,
       "name": "Remove Background",
       "icon": "removebackground/ic_rmbg.webp",
       "backgrounds": [
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Basic",
       "icon": "basic/ic_basic.webp",
       "backgrounds": [
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Gradient",
       "icon": "gradient/ic_gradient.webp",
       "backgrounds": [
