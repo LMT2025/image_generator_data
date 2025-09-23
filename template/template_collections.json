@@ -140,6 +140,90 @@
           "ratio": "2:3"
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Anime",
+      "icon": "icon/anime.png",
+      "templates": [
+        {
+          "id": 401,
+          "name": "Theme 18",
+          "preview": "preview/theme_18.jpg",
+          "resources": "resources/theme_18.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 402,
+          "name": "Theme 19",
+          "preview": "preview/theme_19.jpg",
+          "resources": "resources/theme_19.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 403,
+          "name": "Theme 20",
+          "preview": "preview/theme_20.jpg",
+          "resources": "resources/theme_20.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 404,
+          "name": "Theme 21",
+          "preview": "preview/theme_21.jpg",
+          "resources": "resources/theme_21.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 405,
+          "name": "Theme 22",
+          "preview": "preview/theme_22.jpg",
+          "resources": "resources/theme_22.zip",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Idol",
+      "icon": "icon/idol.png",
+      "templates": [
+        {
+          "id": 501,
+          "name": "Theme 23",
+          "preview": "preview/theme_23.jpg",
+          "resources": "resources/theme_23.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 502,
+          "name": "Theme 24",
+          "preview": "preview/theme_24.jpg",
+          "resources": "resources/theme_24.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 503,
+          "name": "Theme 25",
+          "preview": "preview/theme_25.jpg",
+          "resources": "resources/theme_25.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 504,
+          "name": "Theme 26",
+          "preview": "preview/theme_26.jpg",
+          "resources": "resources/theme_26.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 505,
+          "name": "Theme 27",
+          "preview": "preview/theme_27.jpg",
+          "resources": "resources/theme_27.zip",
+          "ratio": "2:3"
+        }
+      ]
     }
   ]
 }
