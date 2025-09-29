@@ -1,145 +1,344 @@
+
 {
   "lastupdate": "2025-09-11",
   "collections": [
     {
       "id": 1,
-      "name": "Festival",
-      "icon": "icon/festival.png",
-      "templates": [
-        {
-          "id": 104,
-          "name": "Theme 3",
-          "preview": "preview/theme_3.jpg",
-          "resources": "resources/theme_3.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 105,
-          "name": "Theme 8",
-          "preview": "preview/theme_8.jpg",
-          "resources": "resources/theme_8.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 101,
-          "name": "Theme 9",
-          "preview": "preview/theme_9.jpg",
-          "resources": "resources/theme_9.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 102,
-          "name": "Theme 10",
-          "preview": "preview/theme_10.jpg",
-          "resources": "resources/theme_10.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 103,
-          "name": "Theme 11",
-          "preview": "preview/theme_11.jpg",
-          "resources": "resources/theme_11.zip",
-          "ratio": "2:3"
-        }
-      ]
-    },
-    {
-      "id": 2,
       "name": "Aesthetic",
       "icon": "icon/aesthetic.png",
       "templates": [
         {
-          "id": 201,
+          "id": 101,
           "name": "Theme 1",
           "preview": "preview/theme_1.jpg",
           "resources": "resources/theme_1.zip",
           "ratio": "2:3"
         },
         {
-          "id": 202,
+          "id": 102,
           "name": "Theme 2",
           "preview": "preview/theme_2.jpg",
           "resources": "resources/theme_2.zip",
           "ratio": "2:3"
         },
         {
-          "id": 203,
+          "id": 103,
           "name": "Theme 6",
           "preview": "preview/theme_6.jpg",
           "resources": "resources/theme_6.zip",
           "ratio": "2:3"
         },
         {
-          "id": 204,
+          "id": 104,
           "name": "Theme 7",
           "preview": "preview/theme_7.jpg",
           "resources": "resources/theme_7.zip",
           "ratio": "2:3"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Street",
-      "icon": "icon/street.png",
-      "templates": [
-        {
-          "id": 301,
-          "name": "Theme 4",
-          "preview": "preview/theme_4.jpg",
-          "resources": "resources/theme_4.zip",
-          "ratio": "2:3"
         },
         {
-          "id": 302,
-          "name": "Theme 5",
-          "preview": "preview/theme_5.jpg",
-          "resources": "resources/theme_5.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 303,
-          "name": "Theme 12",
-          "preview": "preview/theme_12.jpg",
-          "resources": "resources/theme_12.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 304,
-          "name": "Theme 13",
-          "preview": "preview/theme_13.jpg",
-          "resources": "resources/theme_13.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 305,
-          "name": "Theme 14",
-          "preview": "preview/theme_14.jpg",
-          "resources": "resources/theme_14.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 306,
-          "name": "Theme 15",
-          "preview": "preview/theme_15.jpg",
-          "resources": "resources/theme_15.zip",
-          "ratio": "2:3"
-        },
-        {
-          "id": 307,
+          "id": 105,
           "name": "Theme 16",
           "preview": "preview/theme_16.jpg",
           "resources": "resources/theme_16.zip",
           "ratio": "2:3"
         },
         {
-          "id": 308,
+          "id": 106,
+          "name": "Theme 28",
+          "preview": "preview/theme_28.jpg",
+          "resources": "resources/theme_28.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 107,
+          "name": "Theme 29",
+          "preview": "preview/theme_29.jpg",
+          "resources": "resources/theme_29.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 108,
+          "name": "Theme 30",
+          "preview": "preview/theme_30.jpg",
+          "resources": "resources/theme_30.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 109,
+          "name": "Theme 31",
+          "preview": "preview/theme_31.jpg",
+          "resources": "resources/theme_31.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 110,
+          "name": "Theme 32",
+          "preview": "preview/theme_32.jpg",
+          "resources": "resources/theme_32.zip",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Street",
+      "icon": "icon/street.png",
+      "templates": [
+        {
+          "id": 201,
+          "name": "Theme 4",
+          "preview": "preview/theme_4.jpg",
+          "resources": "resources/theme_4.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 202,
+          "name": "Theme 5",
+          "preview": "preview/theme_5.jpg",
+          "resources": "resources/theme_5.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 203,
+          "name": "Theme 12",
+          "preview": "preview/theme_12.jpg",
+          "resources": "resources/theme_12.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 204,
+          "name": "Theme 13",
+          "preview": "preview/theme_13.jpg",
+          "resources": "resources/theme_13.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 205,
+          "name": "Theme 14",
+          "preview": "preview/theme_14.jpg",
+          "resources": "resources/theme_14.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 206,
+          "name": "Theme 15",
+          "preview": "preview/theme_15.jpg",
+          "resources": "resources/theme_15.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 207,
           "name": "Theme 17",
           "preview": "preview/theme_17.jpg",
           "resources": "resources/theme_17.zip",
           "ratio": "2:3"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Anime",
+      "icon": "icon/anime.png",
+      "templates": [
+        {
+          "id": 301,
+          "name": "Theme 18",
+          "preview": "preview/theme_18.jpg",
+          "resources": "resources/theme_18.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 302,
+          "name": "Theme 19",
+          "preview": "preview/theme_19.jpg",
+          "resources": "resources/theme_19.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 303,
+          "name": "Theme 20",
+          "preview": "preview/theme_20.jpg",
+          "resources": "resources/theme_20.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 304,
+          "name": "Theme 21",
+          "preview": "preview/theme_21.jpg",
+          "resources": "resources/theme_21.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 305,
+          "name": "Theme 22",
+          "preview": "preview/theme_22.jpg",
+          "resources": "resources/theme_22.zip",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Idol",
+      "icon": "icon/idol.png",
+      "templates": [
+        {
+          "id": 401,
+          "name": "Theme 23",
+          "preview": "preview/theme_23.jpg",
+          "resources": "resources/theme_23.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 402,
+          "name": "Theme 24",
+          "preview": "preview/theme_24.jpg",
+          "resources": "resources/theme_24.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 403,
+          "name": "Theme 25",
+          "preview": "preview/theme_25.jpg",
+          "resources": "resources/theme_25.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 404,
+          "name": "Theme 26",
+          "preview": "preview/theme_26.jpg",
+          "resources": "resources/theme_26.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 405,
+          "name": "Theme 27",
+          "preview": "preview/theme_27.jpg",
+          "resources": "resources/theme_27.zip",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Halloween",
+      "icon": "icon/halloween.png",
+      "templates": [
+        {
+          "id": 501,
+          "name": "Theme 3",
+          "preview": "preview/theme_3.jpg",
+          "resources": "resources/theme_3.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 502,
+          "name": "Theme 38",
+          "preview": "preview/theme_38.jpg",
+          "resources": "resources/theme_38.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 503,
+          "name": "Theme 39",
+          "preview": "preview/theme_39.jpg",
+          "resources": "resources/theme_39.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 504,
+          "name": "Theme 40",
+          "preview": "preview/theme_40.jpg",
+          "resources": "resources/theme_40.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 505,
+          "name": "Theme 41",
+          "preview": "preview/theme_41.jpg",
+          "resources": "resources/theme_41.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 506,
+          "name": "Theme 42",
+          "preview": "preview/theme_42.jpg",
+          "resources": "resources/theme_42.zip",
+          "ratio": "2:3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Xmas",
+      "icon": "icon/xmas.png",
+      "templates": [
+        {
+          "id": 601,
+          "name": "Theme 8",
+          "preview": "preview/theme_8.jpg",
+          "resources": "resources/theme_8.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 602,
+          "name": "Theme 9",
+          "preview": "preview/theme_9.jpg",
+          "resources": "resources/theme_9.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 603,
+          "name": "Theme 10",
+          "preview": "preview/theme_10.jpg",
+          "resources": "resources/theme_10.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 604,
+          "name": "Theme 11",
+          "preview": "preview/theme_11.jpg",
+          "resources": "resources/theme_11.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 605,
+          "name": "Theme 33",
+          "preview": "preview/theme_33.jpg",
+          "resources": "resources/theme_33.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 606,
+          "name": "Theme 34",
+          "preview": "preview/theme_34.jpg",
+          "resources": "resources/theme_34.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 607,
+          "name": "Theme 35",
+          "preview": "preview/theme_35.jpg",
+          "resources": "resources/theme_35.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 608,
+          "name": "Theme 36",
+          "preview": "preview/theme_36.jpg",
+          "resources": "resources/theme_36.zip",
+          "ratio": "2:3"
+        },
+        {
+          "id": 609,
+          "name": "Theme 37",
+          "preview": "preview/theme_37.jpg",
+          "resources": "resources/theme_37.zip",
+          "ratio": "2:3"
+        }
+      ]
     }
   ]
 }
+
+    
